@@ -3,13 +3,7 @@ UI Kit Front Components
 </h1>
 
 <p align="center">Simple UI Kit Library for React.js with Storybook Demo.</p>
-<p align="center">Published at <a href="https://npmjs.com/package/rocketseat-challenge-ui-kit">NPM</a>.</p>
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-challenge-ui-kit?color=%237159c1&logo=mit" alt="License">
-  </a>
-</p>
+<p align="center">Published at <a href="https://www.npmjs.com/package/ui-kit-front-components">NPM</a>.</p>
 
 <hr>
 
